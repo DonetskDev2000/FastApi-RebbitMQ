@@ -1,0 +1,2 @@
+DEBUG:aiormq.connection:Received frame <pamqp.heartbeat.Heartbeat object at 0x00000244EB37FF90> in channel #0 weight=8 on <Connection: "amqp://calc_mq:******@10.168.224.49:5672/calc_const" at 0x244eb388e60>
+DEBUG:aiormq.connection:Prepare to send ChannelFrame(channel_number=0, frames=[<pamqp.heartbeat.Heartbeat object at 0x00000244EB37F250>], drain_future=None)
